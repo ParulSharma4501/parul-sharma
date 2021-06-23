@@ -13,9 +13,7 @@ function About() {
             <div className="leftt">
                 <br></br>
                 <br></br>
-                <br></br>
-                <br></br>
-                <br></br>
+            
                 <h1 className="fir">About me</h1>
                 <div className="sec secc">
                     
