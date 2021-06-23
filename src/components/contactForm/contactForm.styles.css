@@ -11,6 +11,7 @@
     font-weight: 600;
     color: rgb(54, 54, 54);
     color: #7a7a7a;
+    transform: scale(0.9);
 }
 
 .input {
