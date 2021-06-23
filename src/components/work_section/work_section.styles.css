@@ -1,0 +1,23 @@
+.work_section {
+  /* background-color: #f1fff8;
+  background-image: url("https://www.transparenttextures.com/patterns/subtle-zebra-3d.png");
+  This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+  background-image: url("../../assets//bgg4.png");
+  /* background-color: red; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 20px;
+  /* margin-right: 40px; */
+  /* height: 100%; */
+}
+
+@media only screen and (max-width: 600px) {
+  .work_section {
+
+    background-image: url("../../assets//bgg4.png");
+    background-size: 850px 1400px;
+    background-repeat: repeat;
+  }
+
+}

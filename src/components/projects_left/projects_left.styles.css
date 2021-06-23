@@ -1,0 +1,31 @@
+.pleft {
+  margin-top: 7%;
+  margin-bottom: 7%;
+  /* padding-left: 7%; */
+  transition: 1s ease all;
+}
+
+.proj_img {
+  object-fit: contain;
+}
+
+.proj_img:hover {
+  cursor: pointer;
+  transform: scale(1.09);
+  transition: 1s ease all;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+  .pleft {
+    padding-left: 0px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+
+  .proj_img {
+    width: 300px;
+
+  }
+}

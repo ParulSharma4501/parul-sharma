@@ -1,0 +1,36 @@
+.mini_p_row {
+
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-top: 20px; */
+    /* margin-bottom: 50px; */
+    margin-bottom: 4%;
+
+
+}
+
+.rowaa {
+    background-image: url("../../assets//bggg4.png");
+    background-size: cover;
+}
+
+.mini_head {
+    margin: 0px;
+    /* margin-bottom: 70px; */
+    /* font-family: "Quicksand", sans-serif; */
+    font-weight: 600;
+    color: rgb(139, 139, 139);
+    font-size: 55px;
+    margin-bottom: 0px;
+    /* font-family: "Ruge Boogie", cursive; */
+    font-weight: 100;
+    color: rgb(56, 56, 56);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .mini_p_row {
+        flex-direction: column;
+    }
+}

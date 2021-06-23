@@ -1,0 +1,33 @@
+.mini_card{
+    /* border: 1px solid gray; */
+    /* background-color: rgb(213, 255, 241); */
+    /* background-color: #a6ffde;
+background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png"); */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+/* background-color: #dfdfdf;
+background-image: url("https://www.transparenttextures.com/patterns/light-wool.png"); */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+border-radius: 10px;
+
+}
+.mini_card :hover{
+   cursor: pointer;
+   transform: scale(1.09);
+   transition: 1s ease all;
+   
+}
+.mini_img{
+    width: 300px;
+   /* object-fit: contain; */
+   height:180px;
+border-radius: 40px;
+   
+/* border:2px solid rgb(47, 255, 193); */
+}
+.titlee{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    color: rgb(87, 87, 87);
+padding-bottom: 20px;
+}

@@ -1,0 +1,67 @@
+.pright {
+  text-align: left;
+  padding-left: 12%;
+  height: 90%;
+  padding-right: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.pright_center {
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  justify-content: space-around;
+  align-items: center;
+}
+.project_name {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  color: rgb(139, 139, 139);
+  font-size: 23px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.project_description {
+  font-family: "Quicksand", sans-serif;
+  /* font-weight: 600; */
+  color: rgb(139, 139, 139);
+  margin-bottom: 20px;
+}
+
+.num_img {
+  object-fit: contain;
+  transform: scale(1.2);
+}
+
+.gooey-button{
+  width: 150px;
+  padding: 10px;
+  border: 0px;
+  outline:none;
+  cursor: pointer;
+}
+
+.btn-grad {background-image: linear-gradient(to right, #43C6AC 0%, #F8FFAE  51%, #43C6AC  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }

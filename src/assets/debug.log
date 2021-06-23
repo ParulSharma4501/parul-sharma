@@ -1,0 +1,217 @@
+[0607/200027.609:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0608/173124.712:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0608/173124.858:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/173124.859:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/173124.907:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0608/173126.682:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/173126.682:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/173807.565:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/173807.565:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/173807.875:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/173807.875:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/173952.894:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/173952.895:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/175026.068:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/175026.068:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/175027.078:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/175027.078:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182344.776:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182344.776:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182345.089:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182345.090:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182345.381:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182345.382:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182345.705:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182345.706:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182346.006:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182346.006:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/182622.308:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/182622.308:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/232127.756:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0608/232127.758:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0608/234823.874:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234828.894:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234833.906:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234838.920:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234843.940:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234848.961:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234853.975:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234858.994:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234904.015:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234909.042:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234914.053:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234919.075:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234924.094:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234929.115:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234934.135:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234939.157:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234944.178:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234949.192:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234954.212:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/234959.223:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235004.239:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235009.257:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235014.276:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235019.297:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235024.306:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235029.328:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235034.349:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235039.372:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235044.387:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235049.403:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235054.420:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235059.430:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235104.438:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235109.462:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235114.479:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235119.496:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235124.515:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235129.530:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235134.551:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235139.564:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235144.572:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235149.584:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235154.597:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235159.618:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235204.628:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235209.640:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235214.658:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235219.678:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235224.697:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235229.713:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235234.722:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235239.736:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235244.759:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235249.771:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235254.785:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235259.813:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235304.830:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235309.855:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235314.880:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235319.894:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235324.913:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235329.928:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235334.944:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235339.971:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235344.988:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235350.017:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235355.040:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235400.057:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235405.084:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235410.102:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235415.119:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235420.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235425.164:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235430.180:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235435.207:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235440.233:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235445.259:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235450.284:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235455.303:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235500.325:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235505.337:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235510.355:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235515.372:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235520.401:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235525.416:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235530.439:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235535.462:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235540.491:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235545.518:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235550.542:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235555.569:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235600.588:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235605.611:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235610.633:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235615.658:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235620.681:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235625.697:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235630.821:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235635.841:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235640.851:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235645.863:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235650.870:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235655.885:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235700.896:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235705.909:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235710.919:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235715.939:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235720.951:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235725.968:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235730.975:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235735.989:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235741.005:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235746.031:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235751.053:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235756.083:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235801.097:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235806.122:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235811.135:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235816.153:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235821.177:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235826.202:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235831.228:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235836.242:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235841.251:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235846.268:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235851.280:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235856.293:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235901.303:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235906.319:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235911.332:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235916.348:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235921.378:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235926.390:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235931.407:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235936.415:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235941.427:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235946.437:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235951.452:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0608/235956.473:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/000001.491:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/000006.508:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/000011.522:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/000011.815:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/001343.994:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0609/151915.251:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0609/151915.474:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0609/151915.475:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0609/151915.519:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0609/155404.903:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0609/155404.904:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0609/155454.984:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0609/155454.984:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0611/220028.573:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0611/220028.574:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0611/220028.633:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0611/220053.659:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0611/220053.660:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0611/220053.960:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0611/220053.960:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0617/172850.994:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0618/183008.108:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0622/221554.589:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/221554.590:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0622/221554.636:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0622/221558.151:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/221558.151:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0622/221558.736:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/221558.736:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0622/221632.038:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/221632.038:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0622/221632.668:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/221632.668:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842
+[0622/222106.861:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 1612
+[0622/222106.861:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 842

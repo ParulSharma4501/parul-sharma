@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding-left: 40px;
+  padding-top: 25px;
+}
+
+.nav_li {
+  display: flex;
+  justify-content: space-between;
+  flex: 0.13;
+  align-items: center;
+  padding-right: 55px;
+  padding-top: 10px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  color: rgb(139, 139, 139);
+  text-decoration: none;
+}
+
+.lii {
+  text-decoration: none;
+  color: rgb(139, 139, 139);
+}
+
+a {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .nav_li {
+    flex: 1;
+    justify-content: space-evenly;
+  }
+}

@@ -1,0 +1,27 @@
+.prow {
+  margin-top: 3%;
+  display: flex;
+  /* justify-content: space-between; */
+  margin-bottom: 7%;
+}
+
+.col1 {
+  text-align: center;
+  flex: 0.5;
+}
+
+.col2 {
+  text-align: center;
+  flex: 0.5;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .prow {
+    flex-direction: column;
+    margin-left: 0PX;
+    border-bottom: 1.5PX SOLID rgb(137, 255, 190);
+    padding-bottom: 20px;
+  }
+}

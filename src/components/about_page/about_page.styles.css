@@ -1,0 +1,78 @@
+.about {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-image: url("../../assets//podduabout.png");
+    background-size: 100vw 100vh;
+    justify-content: space-around;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    color: rgb(54, 54, 54);
+    /* align-items: center; */
+    /*  */
+
+}
+
+.dsc {
+    flex: 0.9;
+
+}
+
+.paru {
+    width: 400px;
+    object-fit: contain;
+    border-radius: 50%;
+    height: 380px;
+}
+
+.leftt {
+    width: 35%;
+    text-align: left;
+    padding-left: 15%;
+    font-size: 19px;
+    color: rgb(143, 143, 143);
+    font-weight: 500;
+    color: transparent;
+    background: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255, 255, 255, 0.5);
+}
+
+.aboutme {
+    color: rgb(66, 66, 66);
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.fir {
+    text-align: center;
+}
+
+.secc {
+    font-size: 18px;
+    color: #8f8f8f;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .about {
+        margin-top: 240px;
+        background-image: none;
+        flex-direction: column-reverse;
+
+    }
+
+    .dsc {
+        flex: .1;
+
+    }
+
+    .leftt {
+        width: 100%;
+        text-align: left;
+        padding-left: 0%;
+    }
+}

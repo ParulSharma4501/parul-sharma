@@ -1,0 +1,43 @@
+.name {
+  font-family: "Almonade Regular";
+  font-family: "Ruge Boogie", cursive;
+
+  color: rgb(56, 56, 56);
+  font-size: 80px;
+  padding: 10px;
+}
+
+.second {
+  font-family: "Open Sans thin";
+  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  /* font-weight: 600; */
+  color: rgb(139, 139, 139);
+  font-size: 25px;
+  padding: 5px;
+  padding-top: 10px;
+}
+
+.third {
+  font-family: "Open Sans thin";
+  font-family: "Montserrat", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  /* font-weight: bold; */
+  color: rgb(139, 139, 139);
+  font-size: 25px;
+  padding: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .name {
+    font-size: 60px;
+  }
+
+  .second {
+    font-size: 20px;
+  }
+
+  .third {
+    font-size: 20px;
+  }
+}

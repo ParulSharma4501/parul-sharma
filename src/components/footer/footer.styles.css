@@ -1,0 +1,60 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* margin: 20px; */
+    align-items: center;
+    background-color: rgb(221, 221, 221);
+    padding: 50px;
+
+    /* 
+background-color: #d1d1d1;
+background-image: url("https://www.transparenttextures.com/patterns/light-wool.png");
+This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+    background-image: url("../../assets//bggg3.png");
+    background-size: cover;
+}
+
+.image_me {}
+
+.social_flex {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+    align-items: center;
+    width: 200px;
+
+}
+
+.icons {
+    padding: 15px;
+    color: rgb(90, 90, 90);
+    border: 2px solid rgb(90, 90, 90);
+    border-radius: 50%;
+    height: 3px;
+    width: 3px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(90, 90, 90);
+
+}
+
+.icon {
+    color: white
+}
+
+.icons:hover {
+    transition: 1s ease all;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.bottom_text {
+    color: rgb(94, 94, 94);
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
