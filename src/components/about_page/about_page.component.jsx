@@ -7,6 +7,8 @@ import paru2 from "../../assets/paru7.png"
 
 import logo2 from "../../assets/logo2.png"
 
+import {Link} from "react-router-dom"
+
 
 function About() {
     return (
@@ -14,7 +16,7 @@ function About() {
         <div className="about">
           
             <div className="leftt">
-            <i class="fas fa-chevron-circle-left sizeee"></i>
+            <Link to="/"><i class="fas fa-chevron-circle-left sizeee"></i></Link>
                 <br></br>
                 <br></br>
                 <br></br>
