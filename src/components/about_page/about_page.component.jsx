@@ -17,7 +17,7 @@ function About() {
                 <br></br>
             
                 <h1 className="fir">About me</h1>
-                <br></br>
+           
                 <div className="sec secc">
                     
                 Creative web developer dedicated to building and optimizing the performance of websites.
