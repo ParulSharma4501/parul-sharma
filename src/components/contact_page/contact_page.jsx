@@ -10,7 +10,7 @@ function ContactPage() {
         <div className="cpage">
             <div></div>
             <div></div>
-            <div></div>
+     
             <div className="forma"> <ContactUs></ContactUs></div>
             <div className="flex22">
                 <img src={emaily} className="emaily" width="400px"></img>

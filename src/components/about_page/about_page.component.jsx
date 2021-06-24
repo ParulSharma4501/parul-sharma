@@ -2,17 +2,19 @@ import React from 'react'
 
 import "./about_page.styles.css"
 
-import paru from "../../assets/paru.jpeg"
+
 import paru2 from "../../assets/paru7.png"
+
+
 
 function About() {
     return (
+        
         <div className="about">
-              
-            
+        
             <div className="leftt">
                 <br></br>
-                <br></br>
+         
             
                 <h1 className="fir">About me</h1>
                 <div className="sec secc">
@@ -32,7 +34,8 @@ function About() {
                 </div>
             </div>
             <div className="dsc">
-            <br></br>
+                
+                <br></br>
                 <br></br>
                 <br></br>
                 <br></br>
@@ -52,6 +55,7 @@ function About() {
             <div></div>
     
         </div>
+        
     )
 }
 

@@ -4,6 +4,8 @@ import './App.css';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import Header from "./components/header/header.component";
+
+
 import Main from "./components/main_section/main.component"
 import Skills from "./components/skills_section/skills.components";
 import WorkSection from "./components/work_section/work_section.component";
@@ -42,10 +44,12 @@ function App() {
           </Route>
 
           <Route path="/contact">
+           
            <ContactPage></ContactPage>
           </Route>
 
           <Route path="/about">
+       
           <About></About>
           </Route>
         </Switch>
