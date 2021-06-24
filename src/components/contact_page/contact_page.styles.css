@@ -20,6 +20,7 @@
 .emaily {
     object-fit: contain;
     margin-top: 100px;
+    border-top-right-radius: 40px;
 }
 
 .flex22 {

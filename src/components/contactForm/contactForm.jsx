@@ -6,6 +6,8 @@ import { Form, Button } from "react-bootstrap";
 import "./contactForm.styles.css";
 
 
+
+
 export default function ContactUs() {
 
   function sendEmail(e) {
@@ -22,8 +24,11 @@ export default function ContactUs() {
       e.target.reset();
   }
 
-    return (
+  return (
+    <div>
+  
       <div className="form_div">
+
     <br></br>
         <Form onSubmit={sendEmail}>
           <h1 className="fir">LET'S TALK</h1>
@@ -64,6 +69,7 @@ export default function ContactUs() {
           
 
 </Form>
-        </div>
+      </div>
+      </div>
     )
 }

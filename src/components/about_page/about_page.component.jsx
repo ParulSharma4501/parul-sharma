@@ -11,7 +11,9 @@ function About() {
     return (
         
         <div className="about">
+           
             <div className="leftt">
+    
                 <br></br>
                 <br></br>
                 <br></br>
