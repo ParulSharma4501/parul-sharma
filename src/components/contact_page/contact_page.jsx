@@ -3,11 +3,14 @@ import "./contact_page.styles.css";
 import ContactUs from "../contactForm/contactForm";
 import emaily from "../../assets/emaily.jpg"
 
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
+
+
 
 function ContactPage() {
     return (
         <div className="cpage">
+      
             <div></div>
             <div></div>
  

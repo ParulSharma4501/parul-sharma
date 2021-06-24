@@ -5,15 +5,16 @@ import "./about_page.styles.css"
 
 import paru2 from "../../assets/paru7.png"
 
+import logo2 from "../../assets/logo2.png"
 
 
 function About() {
     return (
         
         <div className="about">
-           
+          
             <div className="leftt">
-    
+            <i class="fas fa-chevron-circle-left sizeee"></i>
                 <br></br>
                 <br></br>
                 <br></br>
