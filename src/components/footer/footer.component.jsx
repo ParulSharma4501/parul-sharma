@@ -28,6 +28,13 @@ function Footer() {
                     <i class="fas fa-envelope icon" ></i>
                     </Link>
                 </div>
+                <div className="icons ">
+                <a href="https://github.com/ParulSharma4501">
+                    <i class="fab fa-github icon"></i>
+                    </a>
+                </div>
+
+              
             </div>
             <br></br>
             <br></br>

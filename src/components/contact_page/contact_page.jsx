@@ -26,10 +26,11 @@ function ContactPage() {
                         <i class="fab fa-instagram icon"></i>
                         </a>
                 </div>
-                <div className="icons ">
-                    <Link to="/contact">
-                    <i class="fas fa-envelope icon" ></i>
-                    </Link>
+              
+                    <div className="icons ">
+                    <a href="https://github.com/ParulSharma4501">
+                    <i class="fab fa-github icon"></i>
+                    </a>
                 </div>
             </div>
             </div>
