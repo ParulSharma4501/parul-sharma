@@ -24,7 +24,7 @@ export default function ContactUs() {
 
     return (
       <div className="form_div">
-    
+    <br></br>
         <Form onSubmit={sendEmail}>
           <h1 className="fir">LET'S TALK</h1>
           <p className="sec">Wanna collaborate for a project with me ? Or to request a quote or any other help, fill the form and I'll get back to you promptly.</p>
