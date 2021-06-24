@@ -11,7 +11,6 @@ function About() {
     return (
         
         <div className="about">
-        
             <div className="leftt">
                 <br></br>
          
@@ -48,14 +47,12 @@ function About() {
                 <img src={paru2} className="paru"></img>
                 
             </div>
-
             <div></div>
             <div></div>
             <div></div>
             <div></div>
-    
         </div>
-        
+
     )
 }
 
