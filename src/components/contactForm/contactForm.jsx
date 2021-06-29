@@ -45,12 +45,7 @@ export default function ContactUs() {
               <td><Form.Label>Name</Form.Label></td>
               <td><Form.Control type="text" name="name" className="input"/></td>
             </tr>
-
-            <tr>
-              <td><Form.Label>Email address</Form.Label></td>
-              <td><Form.Control type="email"  name="email" className="input" /></td>
-            </tr>
-
+ 
 
             <tr>
               <td> <Form.Label>Subject</Form.Label></td>

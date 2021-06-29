@@ -3,7 +3,6 @@
     height: 100vh;
     display: flex;
     justify-content: space-evenly;
-
     background-image: url("../../assets//poddu2.jpg");
     background-size: 100vw 100%;
     /* padding-top: 50px; */
@@ -37,14 +36,13 @@
         background-image: none;
         flex-direction: column;
         transform: scale(0.9);
-
     }
 
     .forma {
         /* flex: 1.5; */
         transform: scale(0.89);
         margin-bottom: 40px;
-    }
+       }
 
     .emaily {
         display: none;
@@ -53,7 +51,6 @@
     .flex22 {
         flex: 2;
         text-align: center;
-
     }
 
     .marginn {

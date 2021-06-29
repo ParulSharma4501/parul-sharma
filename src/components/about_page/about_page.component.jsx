@@ -3,11 +3,9 @@ import React from 'react'
 import "./about_page.styles.css"
 
 
-import paru2 from "../../assets/paru7.png"
+import paru2 from "../../assets/paru7.png";
 
-import logo2 from "../../assets/logo2.png"
-
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom";
 
 
 function About() {

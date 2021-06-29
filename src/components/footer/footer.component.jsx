@@ -16,12 +16,12 @@ function Footer() {
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/parul-sharma-734853190/">
                         <i class="fab fa-linkedin-in icon"></i>
-                        </a>
+                    </a>
                </div>
                 <div className="icons">
                     <a href="https://www.instagram.com/its_parul_sharma_/">
                         <i class="fab fa-instagram icon"></i>
-                        </a>
+                    </a>
                 </div>
                 <div className="icons ">
                     <Link to="/contact">
